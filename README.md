@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.jpg" alt="profile banner" width="360">
+<img src="assets/banner.jpg" alt="profile banner" width="400">
 
 # nxtroox
 
